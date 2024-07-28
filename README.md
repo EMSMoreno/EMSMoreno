@@ -37,7 +37,10 @@
             <p align="center">
                 <a href="https://www.outsystems.com/" target="_blank" rel="noreferrer">
                     <img src="https://cdn-1.webcatalog.io/catalog/outsystems/outsystems-icon-filled-256.png?v=1714775369841" alt="outsystems" width="40" height="40"/>
-                </a> 
+                </a>
+                <a href="https://www.mendix.com/" target="_blank" rel="noreferrer">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAU2aPAmLsMsTm6FPLYkWxqS9yk3X1ryVTQ&s" alt="mendix" width="40" height="40"/> 
+                </a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
                 </a> 
