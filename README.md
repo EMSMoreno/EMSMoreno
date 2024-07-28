@@ -21,7 +21,7 @@
 
 - 🟦 Recently Passed on **Rapid Developer Certification for Mendix**
 
-- ⚡ Fun fact **Know 3 languages: Portuguese, English & Japanese**
+- ⚡ Fun fact **I know 3 languages: Portuguese, English & Japanese**
 
 <h4 align="center">Select for:</h4>
 <p align="center">
