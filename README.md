@@ -1,9 +1,15 @@
 <h1 align="center">Hello 👋, I'm Eduardo Moreno</h1>
 <h3 align="center">A passionate Low-Code, Frontend & Web Developer from Portugal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emsmoreno&label=Profile%20views&color=0e75b6&style=flat" alt="emsmoreno" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=emsmoreno&label=Profile%20views&color=0e75b6&style=flat" alt="emsmoreno" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emsmoreno" alt="emsmoreno" /></a> </p>
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=emsmoreno" alt="emsmoreno" />
+    </a> 
+</p>
 
 - 🔭 I’m currently working on [World Skills Portugal • Skills Portugal 24 Regional Project](https://github.com/EMSMoreno/CRUDStudentInfo_WSLogin)
 
@@ -17,13 +23,24 @@
 
 - ⚡ Fun fact **Know 3 languages: Portuguese, English & Japanese**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-_eyos3obqfit6djet6qoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-_eyos3obqfit6djet6qoa" height="30" width="40" /></a>
+<h4 align="center">Select for:</h4>
+<p align="center">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLI2FT6Rx6WnXx-a67ladQm9iMI4sk3nq28g&s" alt="skills" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZNp2q9ZqCzfM7qAw46pSvxOkbI1_HklNCo87B261hkxF4BFYlD2ymh6KTz4A4a-y1yAI&usqp=CAU" alt="skills" />
+    
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<table>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-_eyos3obqfit6djet6qoa" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-_eyos3obqfit6djet6qoa" height="30" width="40" />
+    </a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<table align="center">
     <tr>
         <td>
             <h4 align="left">Frontend or Web:</h4>
@@ -146,11 +163,14 @@
     </tr>
 </table>
 
-</a>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emsmoreno&show_icons=true&locale=en&layout=compact" alt="emsmoreno" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emsmoreno&show_icons=true&locale=en&layout=compact" alt="emsmoreno" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emsmoreno&show_icons=true&locale=en" alt="emsmoreno" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emsmoreno&show_icons=true&locale=en" alt="emsmoreno" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emsmoreno&" alt="emsmoreno" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emsmoreno&" alt="emsmoreno" />
+</p>
