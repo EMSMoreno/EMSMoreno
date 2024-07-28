@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I know 3 languages: Portuguese, English & Japanese**
 
-<h4 align="center">Select for:</h4>
+<h4 align="center">Selected for:</h4>
 <p align="center">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLI2FT6Rx6WnXx-a67ladQm9iMI4sk3nq28g&s" alt="skills" />
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZNp2q9ZqCzfM7qAw46pSvxOkbI1_HklNCo87B261hkxF4BFYlD2ymh6KTz4A4a-y1yAI&usqp=CAU" alt="skills" />
