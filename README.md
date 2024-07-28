@@ -31,11 +31,11 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" target="blank">
+    <a href="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" height="30" width="40" />
     </a>
-    <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-_eyos3obqfit6djet6qoa" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-_eyos3obqfit6djet6qoa" height="30" width="40" />
+    <a href="https://www.youtube.com/channel/UC-_eYos3oBqfIt6DJEt6qOA" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC-_eYos3oBqfIt6DJEt6qOA" height="30" width="40" />
     </a>
 </p>
 
