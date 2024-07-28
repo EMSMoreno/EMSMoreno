@@ -43,7 +43,7 @@
 <table align="center">
     <tr>
         <td>
-            <h4 align="left">Frontend or Web:</h4>
+            <h4 align="left">Low-Code, Frontend or Web Development:</h4>
             <p align="left">
                 <a href="https://www.outsystems.com/" target="_blank" rel="noreferrer">
                     <img src="https://cdn-1.webcatalog.io/catalog/outsystems/outsystems-icon-filled-256.png?v=1714775369841" alt="outsystems" width="40" height="40"/>
