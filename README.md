@@ -163,14 +163,11 @@
     </tr>
 </table>
 
-<p align="center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emsmoreno&show_icons=true&locale=en&layout=compact" alt="emsmoreno" />
-</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=emsmoreno&show_icons=true&locale=en" alt="emsmoreno" />
+</div>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emsmoreno&show_icons=true&locale=en" alt="emsmoreno" />
-</p>
-
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emsmoreno&" alt="emsmoreno" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emsmoreno&" alt="emsmoreno" />
 </p>
