@@ -15,7 +15,7 @@
 
 - 🏅 Got 1º Place on the Pre-Selection Exam for the **WorldSkills Portugal • Skills Portugal 24 Championship**
 
-- 🌱 I’m currently learning **C# .NET, .NETCore, .NET API, .NET Core MVC & WPF**
+- 🌱 I’m currently learning **C# .NET, ASP.NETCore, ASP.NET Web API's, ASP.NET Core MVC, ASP.NET Core Blazor & WPF**
 
 - 💬 Ask me about **⭕Outsystems and JavaScript**
 
