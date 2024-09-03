@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **C# .NET, ASP.NETCore, ASP.NET Web API's, ASP.NET Core MVC, ASP.NET Core Blazor & WPF**
 
-- 💬 Ask me about **⭕Outsystems and JavaScript**
+- 💬 Ask me about **⭕Outsystems, C# and JavaScript**
 
 - 🟦 Recently Passed on **Rapid Developer Certification for Mendix**
 
