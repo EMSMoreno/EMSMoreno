@@ -11,7 +11,7 @@
     </a> 
 </p>
 
-- 🔭 I’m currently working on [World Skills Portugal • Skills Portugal 24 Regional Project](https://github.com/EMSMoreno/CRUDStudentInfo_WSLogin)
+- 🔭 I’m currently working on [World Skills Portugal • Skills Portugal 24 Regional Project](https://github.com/EMSMoreno/WorldSkillsPortugal24-PreSelectionExam)
 
 - 🏅 Got 1º Place on the Pre-Selection Exam for the **WorldSkills Portugal • Skills Portugal 24 Championship**
 
