@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **⭕Outsystems, C# and JavaScript**
 
-- 🟦 Recently Passed on **Outsystems Web Specialist from Trusted School**
+- ⭕ Recently Passed on **Outsystems Web Specialist from Trusted School**
 
 - ⚡ Fun fact **I know 3 languages: Portuguese, English & Japanese**
 
