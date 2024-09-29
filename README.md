@@ -11,15 +11,15 @@
     </a> 
 </p>
 
-- 🔭 I’m currently working on [World Skills Portugal • Skills Portugal 24 Regional Project](https://github.com/EMSMoreno/WorldSkillsPortugal24-PreSelectionExam)
+- 🔭 I’m currently working on [World Skills Portugal • Skills Portugal 24 Regional Project](https://github.com/EMSMoreno/BibliotecaSkilliana_M2)
 
-- 🏅 Got 1º Place on the Pre-Selection Exam for the **WorldSkills Portugal • Skills Portugal 24 Championship**
+- 🏅 Got 1º Place on the Pre-Selection Championship for the **WorldSkills Portugal • Skills Portugal 24 Championship**
 
-- 🌱 I’m currently learning **C# .NET, ASP.NETCore, ASP.NET Web API's, ASP.NET Core MVC, ASP.NET Core Blazor & WPF**
+- 🌱 I’m currently learning **.NET Infrastructure**
 
 - 💬 Ask me about **⭕Outsystems, C# and JavaScript**
 
-- 🟦 Recently Passed on **Rapid Developer Certification for Mendix**
+- 🟦 Recently Passed on **Outsystems Web Specialist from Trusted School**
 
 - ⚡ Fun fact **I know 3 languages: Portuguese, English & Japanese**
 
