@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Eduardo Moreno</h1>
-<h3 align="center">A passionate Low-Code, Frontend & Web Developer from Portugal</h3>
+<h3 align="center">A passionate Low-Code Developer from Portugal</h3>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=emsmoreno&label=Profile%20views&color=0e75b6&style=flat" alt="emsmoreno" /> 
@@ -15,7 +15,7 @@
 
 - 🏅 Got 1º Place on the Pre-Selection Championship for the **WorldSkills Portugal • Skills Portugal 24 Championship**
 
-- 🌱 I’m currently learning **.NET Infrastructure**
+- 🌱 I’m currently learning **Intermediate Level Mendix** & **.NET Infrastructure**
 
 - 💬 Ask me about **⭕Outsystems, C# and JavaScript**
 
