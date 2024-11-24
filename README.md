@@ -23,18 +23,24 @@
 
 - ⚡ Fun fact **I know 3 languages: Portuguese, English & Japanese**
 
-<p align="center"> <img src="https://iili.io/2YtKF5P.png" alt="skills" />
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/channel/UC-_eYos3oBqfIt6DJEt6qOA" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC-_eYos3oBqfIt6DJEt6qOA" height="30" width="40" />
-    </a>
-</p>
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://iili.io/2YtKF5P.png" alt="skills" />
+        </td>
+        <td align="center">
+            <h3>Connect with me:</h3>
+            <p>
+                <a href="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" target="blank">
+                    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+                </a>
+                <a href="https://www.youtube.com/channel/UC-_eYos3oBqfIt6DJEt6qOA" target="blank">
+                    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+                </a>
+            </p>
+        </td>
+    </tr>
+</table>
 
 <h3 align="center">Languages and Tools:</h3>
 <table align="center">
