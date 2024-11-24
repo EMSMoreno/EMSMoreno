@@ -23,24 +23,22 @@
 
 - ⚡ Fun fact **I know 3 languages: Portuguese, English & Japanese**
 
-<table align="center" style="border-collapse: collapse; border: none;">
-    <tr>
-        <td align="center" style="border: none;">
-            <img src="https://iili.io/2YtKF5P.png" alt="skills" />
-        </td>
-        <td align="center" style="border: none;">
-            <h3>Connect with me:</h3>
-            <p>
-                <a href="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" target="blank">
-                    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-                </a>
-                <a href="https://www.youtube.com/channel/UC-_eYos3oBqfIt6DJEt6qOA" target="blank">
-                    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-                </a>
-            </p>
-        </td>
-    </tr>
-</table>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <div>
+        <img src="https://iili.io/2YtKF5P.png" alt="skills" />
+    </div>
+    <div>
+        <h3>Connect with me:</h3>
+        <p>
+            <a href="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" target="blank">
+                <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+            </a>
+            <a href="https://www.youtube.com/channel/UC-_eYos3oBqfIt6DJEt6qOA" target="blank">
+                <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+            </a>
+        </p>
+    </div>
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 <table align="center">
