@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [World Skills Portugal • Skills Portugal 24 Regional Project](https://github.com/EMSMoreno/BibliotecaSkilliana_M2)
 
-- 🏅 Got 1º Place on the Pre-Selection Championship for the **WorldSkills Portugal • Skills Portugal 24 Championship**
+- 🏅 Top 10 on the National Championship for the **WorldSkills Portugal • Skills Portugal 24 Championship**
 
 - 🌱 I’m currently learning **Intermediate Level Mendix** & **.NET Infrastructure**
 
@@ -25,8 +25,7 @@
 
 <h4 align="center">Selected for:</h4>
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLI2FT6Rx6WnXx-a67ladQm9iMI4sk3nq28g&s" alt="skills" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZNp2q9ZqCzfM7qAw46pSvxOkbI1_HklNCo87B261hkxF4BFYlD2ymh6KTz4A4a-y1yAI&usqp=CAU" alt="skills" />
+    <img src="https://freeimage.host/i/2YtKF5P" alt="skills" />
     
 </p>
 <h3 align="center">Connect with me:</h3>
