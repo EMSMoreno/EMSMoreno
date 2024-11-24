@@ -23,8 +23,8 @@
 
 - ⚡ Fun fact **I know 3 languages: Portuguese, English & Japanese**
 
-<h4 align="center">TOP 10 at:</h4>
-<img src="https://iili.io/2YtKF5P.png" alt="skills" />
+<p align="center"> <img src="https://iili.io/2YtKF5P.png" alt="skills" />
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
