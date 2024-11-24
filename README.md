@@ -11,7 +11,7 @@
     </a> 
 </p>
 
-- 🔭 I’m currently working on [World Skills Portugal • Skills Portugal 24 Regional Project](https://github.com/EMSMoreno/BibliotecaSkilliana_M2)
+- 🔭 I’m currently working w/ my colleagues on [PulseFit](https://github.com/EMSMoreno/PulseFit.Management.Web)
 
 - 🏅 Top 10 on the National Championship for the **WorldSkills Portugal • Skills Portugal 24 Championship**
 
