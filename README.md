@@ -26,8 +26,8 @@
 <div align="center">
     <img src="https://iili.io/2YtKF5P.png" alt="skills" style="display: inline-block; vertical-align: middle;" />
 
-    <div style="display: inline-block; vertical-align: middle; margin-left: 20px;">
-        <h3>Connect with me:</h3>
+<div style="display: inline-block; vertical-align: middle; margin-left: 20px;">
+    <h3>Connect with me:</h3>
         <p>
             <a href="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" target="blank">
                 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
