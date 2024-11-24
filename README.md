@@ -22,12 +22,11 @@
 - ⭕ Recently Passed on **Outsystems Web Specialist from Trusted School**
 
 - ⚡ Fun fact **I know 3 languages: Portuguese, English & Japanese**
+  
+<div align="center">
+    <img src="https://iili.io/2YtKF5P.png" alt="skills" style="display: inline-block; vertical-align: middle;" />
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <div>
-        <img src="https://iili.io/2YtKF5P.png" alt="skills" />
-    </div>
-    <div>
+    <div style="display: inline-block; vertical-align: middle; margin-left: 20px;">
         <h3>Connect with me:</h3>
         <p>
             <a href="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" target="blank">
