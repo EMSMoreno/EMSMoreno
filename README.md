@@ -25,7 +25,7 @@
 
 <h4 align="center">Selected for:</h4>
 <p align="center">
-    <img src="https://freeimage.host/i/2YtKF5P" alt="skills" />
+    <img src="https://iili.io/2YtKF5P.png" alt="skills" />
     
 </p>
 <h3 align="center">Connect with me:</h3>
