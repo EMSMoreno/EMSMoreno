@@ -23,12 +23,8 @@
 
 - ⚡ Fun fact **I know 3 languages: Portuguese, English & Japanese**
   
-<div align="center">
-    <img src="https://iili.io/2YtKF5P.png" alt="skills" style="display: inline-block; vertical-align: middle;" />
-
 <p align="center"> <img src="https://iili.io/2YtKF5P.png" alt="skills" />
 </p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/eduardo-moreno-1bb8b71b3/" target="blank">
