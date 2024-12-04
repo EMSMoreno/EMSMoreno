@@ -13,7 +13,7 @@
 
 - 📋 Project Ideas **Mandarake (Outsystems) & Paypal API Integration**
 
-- 🔭 I’m currently working w/ my colleagues on [AppSnacks](https://github.com/EMSMoreno/AppSnacks)
+- 🔭 I’m currently working on [AppSnacks](https://github.com/EMSMoreno/AppSnacks)
 
 - 🏅 Top 10 Champion on the National Championship for the **WorldSkills Portugal • Skills Portugal 24 Championship**
 
