@@ -11,9 +11,9 @@
     </a> 
 </p>
 
-- 📋 Project Ideas **Mandarake (Outsystems) & Paypal API Integration**
+- 📋 Project Ideas **????**
 
-- 🔭 I’m currently working on [AppSnacks](https://github.com/EMSMoreno/AppSnacks)
+- 🔭 I’m currently working on [Mandarake Outsystems](https://github.com/EMSMoreno/Mandarake-Outsystems)
 
 - 🏅 Top 10 Champion on the National Championship for the **WorldSkills Portugal • Skills Portugal 24 Championship**
 
